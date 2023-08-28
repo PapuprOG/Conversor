@@ -3,6 +3,6 @@ Este es un conversor de moneda y temperatura, del programa Alura Oracle Next Edu
 
 ![Principal](Principal.png)
 
-![Conversor de moneda](Conversor de moneda.png)
+![Conversor de moneda](Conversor%20de%20moneda.png)
 
-![Conversor de temperatura](Conversor de temperatura.png)
+![Conversor de temperatura](Conversor%20de%20temperatura.png)
